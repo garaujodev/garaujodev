@@ -4,4 +4,5 @@
 - 🌱 I’m currently learning [Elixir](https://elixir-lang.org/)
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about **Ruby** and **PHP**
+- 🖊️ Writing on [my personal blog](https://gustavoaraujo.dev)
 - ⚡ Fun fact: I play guitar :guitar: and practice enduro :sunrise_over_mountains::motorcycle:
