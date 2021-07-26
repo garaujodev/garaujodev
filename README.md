@@ -1,8 +1,6 @@
 ### Hey there 👋
 
-- 💎 Ruby Developer at [SourceLevel](https://sourcelevel.io)
-- 🌱 I’m currently learning [Elixir](https://elixir-lang.org/)
+- 👨🏻‍💻 Software Developer at [SourceLevel](https://sourcelevel.io)
 - 👯 I’m looking to collaborate on Open Source Projects
-- 💬 Ask me about **Ruby** and **PHP**
+- 💬 Ask me about **Ruby**, **PHP** and **Elixir**
 - 🖊️ Writing on [my personal blog](https://gustavoaraujo.dev)
-- ⚡ Fun fact: I play guitar :guitar: and practice enduro :sunrise_over_mountains::motorcycle:
