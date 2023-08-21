@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gustavo Araujo</h1>
-<h4 align="center">A Functional Programming Enthusiast</h4>
+<h4 align="center">About me</h4>
+I am a software engineer with a passion for technology and a strong desire to share my knowledge with others. I have experience developing and deploying software across a range of platforms and have a proven track record of delivering high-quality, scalable, and efficient solutions.
+
+Aside from my technical skills, I have a genuine interest in educating and mentoring others, which has led me to frequently participate in coding workshops, hackathons, and online communities. I believe that knowledge sharing is key to growth, not just in the technology industry, but in every aspect of life.
+
+When I am not coding, I enjoy staying up-to-date with the latest trends and developments in the field, as well as exploring new technologies and tools. I am always looking for new opportunities to grow, learn, and share my knowledge with others.
+
+In addition to my professional and educational activities, I have recently started to publish articles and blog posts about topics that I am passionate about in my personal blog, the [Code Chronicles](https://gustavoaraujo.dev/?utm_medium=social&utm_source=github). This allows me to share my thoughts and knowledge with a wider audience and engage in meaningful discussions with like-minded individuals. I am excited to continue to expand my online presence and connect with others who share my interests.
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garaujodev&" alt="garaujodev" /></p>
 
