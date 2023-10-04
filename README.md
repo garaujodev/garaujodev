@@ -8,7 +8,7 @@ When I am not coding, I enjoy staying up-to-date with the latest trends and deve
 
 In addition to my professional and educational activities, I have recently started to publish articles and blog posts about topics that I am passionate about in my personal blog, the [Code Chronicles](https://gustavoaraujo.dev/?utm_medium=social&utm_source=github). This allows me to share my thoughts and knowledge with a wider audience and engage in meaningful discussions with like-minded individuals. I am excited to continue to expand my online presence and connect with others who share my interests.
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garaujodev&" alt="garaujodev" /></p>
+<p align="center"><img src="https://github-readme-streak-stats-vercel-fpqt-o2e6170hw.vercel.app/?user=garaujodev&mode=weekly" alt="GitHub Streak" /></p>
 
 <h4 align="center">Languages and Tools</h4>
 
@@ -36,4 +36,4 @@ In addition to my professional and educational activities, I have recently start
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garaujodev&theme=flat&column=8" alt="garaujodev" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garaujodev&theme=flat&column=5" alt="garaujodev" /></a> </p>
