@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Gustavo Araujo</h1>
 <h4 align="center">About me</h4>
-I am a software engineer with a passion for technology and a strong desire to share my knowledge with others. I have experience developing and deploying software across a range of platforms and have a proven track record of delivering high-quality, scalable, and efficient solutions.
+As a software engineer, I have a deep interest in technology and a strong inclination to impart my expertise to others. My background involves creating and implementing software across various platforms, consistently delivering top-notch, adaptable, and effective solutions.
 
-Aside from my technical skills, I have a genuine interest in educating and mentoring others, which has led me to frequently participate in coding workshops, hackathons, and online communities. I believe that knowledge sharing is key to growth, not just in the technology industry, but in every aspect of life.
+Beyond my technical proficiency, I find fulfillment in guiding and instructing others. This drive has led me to actively engage in coding workshops, hackathons, and online communities. I firmly believe that sharing knowledge is pivotal for personal growth, not only within the tech sphere but in all aspects of life.
 
-When I am not coding, I enjoy staying up-to-date with the latest trends and developments in the field, as well as exploring new technologies and tools. I am always looking for new opportunities to grow, learn, and share my knowledge with others.
+During my leisure time away from coding, I keep myself updated on the latest advancements in the field while exploring novel technologies and tools. I’m constantly seeking fresh prospects for learning, expanding my skills, and exchanging knowledge.
 
 In addition to my professional and educational activities, I have recently started to publish articles and blog posts about topics that I am passionate about in my personal blog, the [Code Chronicles](https://gustavoaraujo.dev/?utm_medium=social&utm_source=github). This allows me to share my thoughts and knowledge with a wider audience and engage in meaningful discussions with like-minded individuals. I am excited to continue to expand my online presence and connect with others who share my interests.
+
+Aside from my professional and educational pursuits, I’ve recently begun using a platform to publish articles and blogs on topics close to my heart, the [Code Chronicles](https://gustavoaraujo.dev/?utm_medium=social&utm_source=github). It allows me to share insights and expertise with a broader audience and fosters enriching conversations with individuals who share similar passions.
 
 <p align="center"><img src="https://github-readme-streak-stats-vercel-fpqt-o2e6170hw.vercel.app/?user=garaujodev&mode=weekly" alt="GitHub Streak" /></p>
 
