@@ -6,8 +6,6 @@ Beyond my technical proficiency, I find fulfillment in guiding and instructing o
 
 During my leisure time away from coding, I keep myself updated on the latest advancements in the field while exploring novel technologies and tools. I’m constantly seeking fresh prospects for learning, expanding my skills, and exchanging knowledge.
 
-In addition to my professional and educational activities, I have recently started to publish articles and blog posts about topics that I am passionate about in my personal blog, the [Code Chronicles](https://gustavoaraujo.dev/?utm_medium=social&utm_source=github). This allows me to share my thoughts and knowledge with a wider audience and engage in meaningful discussions with like-minded individuals. I am excited to continue to expand my online presence and connect with others who share my interests.
-
 Aside from my professional and educational pursuits, I’ve recently begun using a platform to publish articles and blogs on topics close to my heart, the [Code Chronicles](https://gustavoaraujo.dev/?utm_medium=social&utm_source=github). It allows me to share insights and expertise with a broader audience and fosters enriching conversations with individuals who share similar passions.
 
 <p align="center"><img src="https://github-readme-streak-stats-vercel-fpqt-o2e6170hw.vercel.app/?user=garaujodev&mode=weekly" alt="GitHub Streak" /></p>
