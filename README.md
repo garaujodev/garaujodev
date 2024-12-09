@@ -6,10 +6,16 @@ I’m a Senior Software Engineer at CloudWalk, where I contribute to the develop
 
 I’m also an active participant in software development communities and events, where I’ve had the opportunity to share knowledge and present talks. I enjoy contributing to open-source projects, which allows me to collaborate with developers worldwide and give back to the community that inspires me daily. Engaging with the community and open source fuels my growth and helps me stay at the forefront of industry trends.
 
-<p align="center"><a href="https://gustavoaraujo.dev/?utm_medium=social&utm_source=github" target="_blank">Code Chronicles</a></p>
+---
+
+<p align="center"><a href="https://gustavoaraujo.dev/?utm_medium=social&utm_source=github" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4D16AQHsbNY168BePQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1690306950813?e=1739404800&v=beta&t=7t82SA5w-rNnw2urLnbdFH98YZLjo4zVLkmY5Sh3kBU" alt="Code Chronicles" /></a></p>
 <p align="center"><sub>Consider taking a look at my blog, where I share some insights and thoughts.</sub></p>
 
+---
+
 <p align="center"><img src="https://github-readme-streak-stats-vercel-fpqt-o2e6170hw.vercel.app/?user=garaujodev&mode=weekly" alt="GitHub Streak" /></p>
+
+---
 
 <h4 align="center">Languages and Tools</h4>
 
