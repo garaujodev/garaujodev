@@ -8,7 +8,7 @@ I’m also an active participant in software development communities and events,
 
 ---
 
-<p align="center"><a href="https://gustavoaraujo.dev/?utm_medium=social&utm_source=github" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4D16AQHsbNY168BePQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1690306950813?e=1739404800&v=beta&t=7t82SA5w-rNnw2urLnbdFH98YZLjo4zVLkmY5Sh3kBU" alt="Code Chronicles" /></a></p>
+<p align="center"><a href="https://gustavoaraujo.dev/?utm_medium=social&utm_source=github" target="_blank"><img src="https://i.imgur.com/SdhAwgD.jpeg" alt="Code Chronicles" /></a></p>
 <p align="center"><sub>Consider taking a look at my blog, where I share some insights and thoughts.</sub></p>
 
 ---
