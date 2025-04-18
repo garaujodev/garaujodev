@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo Araujo</h1>
 
-<h3 align="center">Software Engineer with 10+ years of experience building and scaling backend systems  </h3> 
+<p align="center">Software Engineer with 10+ years of experience building and scaling backend systems</p> 
 
 ---
 🌍 Remote-first mindset, working with global teams
