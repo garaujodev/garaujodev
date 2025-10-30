@@ -20,10 +20,15 @@
 
 #### 🛠️ Tech Stack & Tools
 
+- 💧 Elixir/Phoenix
 - 💎 Ruby on Rails
-- 💧 Elixir/Phoenix  
-- 🧪 Testing: RSpec, Minitest, ExUnit  
-- ☁️ Experience with scalable architectures and distributed systems  
+- 🧪 Testing: RSpec, Minitest, ExUnit
+- ⚙️ Distributed systems, async pipelines, and high-throughput services
+- 🗄️ PostgreSQL, Redis, Kafka
+- 🐳 Docker, Kubernetes
+- ☁️ AWS & GCP
+- 🧱 IaC: Terraform
+- 🔐 Observability & reliability: Grafana, Prometheus, Sentry
 
 ---
 
@@ -31,7 +36,7 @@
 
 - 🎙️ Speaker at dev events and meetups (Rails, Elixir, scalability)  
 - 🧑‍🤝‍🧑 Active in OSS — love sharing and learning with the community  
-- 🧠 Studying InfoSec, memory injection, and software resilience  
+- 🧠 Interested in security, software hardening, and system resilience
 
 ---
 
