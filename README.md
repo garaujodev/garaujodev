@@ -8,17 +8,20 @@
 ---
 #### 💼 What I Do
 
-- 💳 **Senior Software Engineer @ CloudWalk**, working on products like **InfinitePay** and **JIM**  
-- ⚙️ Focused on building **scalable**, **reliable**, and **performant** systems  
-- 🏗️ Part of the **onboarding team**, helping design and launch new projects to improve customer experience  
-- 🧪 Advocate for **code quality**: linters, tests, CI/CD  
-- 🧠 Passionate about **mentorship**, **clean code**, and **collaborative team culture**  
+- 👨‍💻 Software Engineer focused on backend and distributed systems  
+- ⚙️ Build **scalable**, **reliable**, and **high-performance** services  
+- 🏗️ Design and evolve internal platforms and APIs used by millions of users  
+- 🚀 Experience in high-volume environments (real-time processing, async pipelines, microservices)  
+- 🧪 Strong believer in **code quality**: tests, linters, CI/CD, observability  
+- 👥 Enjoy mentoring engineers and fostering a collaborative engineering culture  
+- 🌎 Remote-first mindset, with years working in globally distributed teams   
 
 ---
 
 #### 🛠️ Tech Stack & Tools
 
-- 💎 Ruby on Rails & Elixir/Phoenix  
+- 💎 Ruby on Rails
+- 💧 Elixir/Phoenix  
 - 🧪 Testing: RSpec, Minitest, ExUnit  
 - ☁️ Experience with scalable architectures and distributed systems  
 
